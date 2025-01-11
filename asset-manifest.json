@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AshriPullabhatla-03/financial_data_UI.git/static/css/main.2dc7b3d2.css",
+    "main.js": "/AshriPullabhatla-03/financial_data_UI.git/static/js/main.c9eaa610.js",
+    "static/js/488.2b91f783.chunk.js": "/AshriPullabhatla-03/financial_data_UI.git/static/js/488.2b91f783.chunk.js",
+    "index.html": "/AshriPullabhatla-03/financial_data_UI.git/index.html",
+    "main.2dc7b3d2.css.map": "/AshriPullabhatla-03/financial_data_UI.git/static/css/main.2dc7b3d2.css.map",
+    "main.c9eaa610.js.map": "/AshriPullabhatla-03/financial_data_UI.git/static/js/main.c9eaa610.js.map",
+    "488.2b91f783.chunk.js.map": "/AshriPullabhatla-03/financial_data_UI.git/static/js/488.2b91f783.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2dc7b3d2.css",
+    "static/js/main.c9eaa610.js"
+  ]
+}
