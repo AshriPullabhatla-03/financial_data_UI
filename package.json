@@ -24,7 +24,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://your-github-username.github.io/financial-data-filter",
+  "homepage": "https://github.com/AshriPullabhatla-03/financial_data_UI.git",
   "eslintConfig": {
     "extends": [
       "react-app",
